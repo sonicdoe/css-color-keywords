@@ -12,7 +12,7 @@
   "author": "Jakob Krigovsky <jakob@krigovsky.com>",
   "repository": "sonicdoe/css-color-keywords",
   "scripts": {
-    "test": "standard"
+    "test": "standard && node test.js"
   },
   "devDependencies": {
     "standard": "^8.6.0"
