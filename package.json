@@ -10,6 +10,10 @@
   ],
   "license": "ISC",
   "author": "Jakob Krigovsky <jakob@krigovsky.com>",
+  "files": [
+    "colors.json",
+    "index.js"
+  ],
   "repository": "sonicdoe/css-color-keywords",
   "scripts": {
     "test": "standard && node test.js"
