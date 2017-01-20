@@ -39,6 +39,8 @@ This project follows [Semantic Versioning 2](http://semver.org/).
 This list aims to always include all CSS color keywords. If new keywords are
 specified, only the *minor* version will be bumped.
 
+- v1.0.0 (2017-01-20): Initial release
+
 ## License
 
 `css-color-keywords` is licensed under the ISC license.
