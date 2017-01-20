@@ -11,6 +11,12 @@
   "license": "ISC",
   "author": "Jakob Krigovsky <jakob@krigovsky.com>",
   "repository": "sonicdoe/css-color-keywords",
+  "scripts": {
+    "test": "standard"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
   "engines": {
     "node": ">=4"
   }
